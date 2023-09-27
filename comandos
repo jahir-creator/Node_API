@@ -1,0 +1,10 @@
+#comandos para crear un proyecto ocn node js y express
+
+npm init -y
+
+npm i dotenv express promise-mysql
+
+npm i @babel/cli @babel/core @babel/node @babel/preset-env morgan nodemon -d
+
+#EJECUTAR SERVIDOR
+ npm run dev	
